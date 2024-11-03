@@ -1,0 +1,37 @@
+.font{
+    text-align: center;
+  font-family: "Pacifico", cursive;
+font-size: 42px;
+color: orangered;
+}
+.body{
+
+    background-image: linear-gradient(to right, #31B0E3, #E117FB) ;
+}
+
+
+.body-1{
+
+    background-color: #ffffff;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-top: 35Px;
+    border-radius: 20px;
+    text-align: center;
+    color: darkcyan;
+    font-family: "Playwrite GB S", cursive;
+
+
+}
+
+.box{
+
+    border-radius: 12px;
+    height: 30px;
+    width: 180px;
+    color: #ff0000;
+    font-size: 18px;
+}
